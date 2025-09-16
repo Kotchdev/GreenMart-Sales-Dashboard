@@ -1,5 +1,3 @@
-# GreenMart-Sales-Dashboard
-Power BI dashboard analysing 2017 GreenMart sales data, including time trends, product performance, customer insights, and regional sales analysis.
 
 📊 **Interactive Data Dashboard in Power BI**  
 This project simulates work as a data analyst at **GreenMart**, a company specializing in eco-friendly office supplies and furniture.  
