@@ -1,5 +1,5 @@
 
-📊 **Interactive Data Dashboard in Power BI**  
+## 📊 **Interactive Data Dashboard in Power BI**  
 This project simulates work as a data analyst at **GreenMart**, a company specializing in eco-friendly office supplies and furniture.  
 
 The goal was to build a **comprehensive sales dashboard** to uncover insights on:
