@@ -30,16 +30,16 @@ The goal was to build a **comprehensive sales dashboard** to uncover insights on
 *(Interactive link will be added later)*
 
 ### Time Information Analysis
-![Time Analysis](screenshots/dashboard_page2.png)
+![Time Analysis](Screenshots/dashboard_page2.png)
 
 ### Product Analysis
-![Product Analysis](screenshots/dashboard_page3.png)
+![Product Analysis](Screenshots/dashboard_page3.png)
 
 ### Customer Analysis
-![Customer Analysis](screenshots/dashboard_page4.png)
+![Customer Analysis](Screenshots/dashboard_page4.png)
 
 ### Regional Sales Performance
-![Regional Analysis](screenshots/dashboard_page5.png)
+![Regional Analysis](Screenshots/dashboard_page5.png)
 
 ---
 
