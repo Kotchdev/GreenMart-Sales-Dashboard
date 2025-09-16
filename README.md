@@ -57,7 +57,7 @@ The goal was to build a **comprehensive sales dashboard** to uncover insights on
 
 ---
 
-### 🔎 Key Insights & Recommendations
+## 🔎 Key Insights & Recommendations
 
 **Key Insights (from the 2017 dataset):**
 - **Sales Growth**: Sales steadily increased in 2017, peaking in December — suggesting strong seasonality and end-of-year demand.  
