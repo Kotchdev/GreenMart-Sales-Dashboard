@@ -57,11 +57,20 @@ The goal was to build a **comprehensive sales dashboard** to uncover insights on
 
 ---
 
-## 📈 Key Insights
-- **Sales grew steadily** towards the end of 2017, with December as the peak month.
-- **Technology products** were the top revenue driver, but **Furniture** had negative profit margins in some states.
-- **Regional differences** showed that some states consistently underperformed in profit, despite high sales.
-- A small number of **loyal customers** contributed significantly to sales volume.
+### 🔎 Key Insights & Recommendations
+
+**Key Insights (from the 2017 dataset):**
+- **Sales Growth**: Sales steadily increased in 2017, peaking in December — suggesting strong seasonality and end-of-year demand.  
+- **Product Profitability**: Technology products drove the most revenue, but Furniture showed weak or negative profit margins in states like Texas and Pennsylvania.  
+- **Regional Variation**: California and New York dominated sales, while states in the Midwest underperformed despite similar product availability.  
+- **Customer Contribution**: A small group of repeat customers generated a disproportionately large share of revenue.  
+
+**Recommendations:**
+- **Target Promotions in Low-Profit States**: Investigate why Furniture underperforms in specific regions — consider adjusting pricing, supply chain costs, or marketing strategy.  
+- **Expand High-Performing Categories**: Prioritize Technology category expansion (bundling, upselling accessories) since it consistently delivers revenue.  
+- **Customer Retention Strategy**: Build loyalty programs or exclusive offers for repeat customers, who are already driving most of the sales.  
+- **Seasonality Planning**: Stock and market aggressively in Q4 (Oct–Dec), as year-end demand shows the highest returns.  
+- **Regional Marketing Push**: Allocate more targeted campaigns in the Midwest to capture untapped demand and balance revenue across regions.  
 
 ---
 
