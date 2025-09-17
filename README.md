@@ -42,14 +42,6 @@ The goal was to build a **comprehensive sales dashboard** to uncover insights on
 ### Regional Sales Performance
 ![Regional Analysis](Screenshots/dashboard_page5.png)
 
-
----
-
-## 🚀 How to Use
-- Download the `.pbix` file from this repo.
-- Open it with **Power BI Desktop** (free from Microsoft).
-- Explore the interactive dashboards.
-
 ---
 
 ## 🌐 Live Dashboard
@@ -81,3 +73,9 @@ The goal was to build a **comprehensive sales dashboard** to uncover insights on
 - Business Insight Communication
 - Data Visualization Design
 
+---
+
+## 🚀 How to Use
+- Download the `.pbix` file from this repo.
+- Open it with **Power BI Desktop** (free from Microsoft).
+- Explore the interactive dashboards.
